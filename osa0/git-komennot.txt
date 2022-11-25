@@ -1,0 +1,6 @@
+git init  //alustaa projektin
+git status //kertoo projektissa olevien tiedostojen statuksen
+git add . // lisää tiedostot stagelle
+git commit -m "viestin sisältö" // tekee commitin
+git log // näyttää kaikki commitit
+git log --oneline
