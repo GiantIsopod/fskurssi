@@ -1,3 +1,4 @@
 git init  //alustaa projektin
 git status
-
+git add .
+git commit -m "viestin sisältö"
